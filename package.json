@@ -1,0 +1,13 @@
+{
+  "name": "hanhchinhvn",
+  "version": "1.0.0",
+  "description": "Phân cấp hành chính Việt Nam.",
+  "main": "generate.js",
+  "scripts": {
+    "generate": "node generate.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ducthotran2010<ducthotran2010@gmail.com>",
+  "license": "ISC"
+}
